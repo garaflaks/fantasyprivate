@@ -10,6 +10,9 @@
 	<event type="kill" name="TutorialCockroach" script="rookgaard/killCockroach.lua" />
 	<event type="advance" name="AdvanceRookgaard" script="rookgaard/advance.lua" />
 
+	<!-- autoloot -->
+	<event type="kill" name="AutoLoot" script="autoloot.lua" />
+
 	<!-- Elemental Spheres Quest -->
 	<event type="kill" name="ElementalSpheresOverlords" script="quests/elemental spheres/OverlordsKill.lua" />
 
