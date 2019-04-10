@@ -1,0 +1,4 @@
+/home/ubuntu/custom/build/CMakeFiles/all_pch.dir
+/home/ubuntu/custom/build/CMakeFiles/clean_cotire.dir
+/home/ubuntu/custom/build/CMakeFiles/tfs.dir
+/home/ubuntu/custom/build/CMakeFiles/tfs_pch.dir
