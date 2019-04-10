@@ -57,6 +57,9 @@
 	<talkaction words="!serverinfo" script="serverinfo.lua" />
 	<talkaction words="!addon" script="addon.lua" />
 
+	<!-- autoloot -->
+	<talkaction words="!autoloot" separator=" " script="autoloot.lua"/>
+
 	<!-- Cast System -->
 	<talkaction words="!cast on" separator=" " script="start_cast.lua" />
     <talkaction words="!cast off" script="stop_cast.lua" />
