@@ -13,7 +13,7 @@ experienceByKillingPlayers = false
 expFromPlayersLevelRange = 75
 
 -- Connection Config
-ip = "45.231.132.121"
+ip = "127.0.0.1"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -22,7 +22,7 @@ maxPlayers = 1000
 motd = "Welcome to the best RLMAP 10.9x"
 onePlayerOnlinePerAccount = true
 allowClones = false
-serverName = "Absolute/Ciroc"
+serverName = ""
 statusTimeout = 5000
 replaceKickOnLogin = true
 maxPacketsPerSecond = 300
@@ -47,7 +47,7 @@ timeBetweenExActions = 1000
 -- Map
 -- NOTE: set mapName WITHOUT .otbm at the end
 mapName = "global"
-mapAuthor = "Absolute and Ciroc"
+mapAuthor = "x"
 
 -- Market
 marketOfferDuration = 30 * 24 * 60 * 60
@@ -59,8 +59,8 @@ maxMarketOffersAtATimePerPlayer = 100
 sqlType = "mysql"
 mysqlHost = "127.0.0.1"
 mysqlUser = "root"
-mysqlPass = "180393"
-mysqlDatabase = "rpg"
+mysqlPass = ""
+mysqlDatabase = ""
 mysqlPort = 3306
 mysqlSock = ""
 passwordType = "sha1"
@@ -99,7 +99,7 @@ defaultPriority = "high"
 startupDatabaseOptimization = false
 
 -- Status server information
-ownerName = "Absolute"
-ownerEmail = "absolute@lnetworks.com.br"
-url = "https://lnetworks.com.br/"
+ownerName = ""
+ownerEmail = ""
+url = ""
 location = "Brazil"
