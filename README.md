@@ -1,6 +1,1 @@
-# fantasy
-# fantasy
-# otserv
-# otserv
-# ot
-# fantasyprivate
+Fantasy Private
