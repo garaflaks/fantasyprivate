@@ -82,6 +82,7 @@ function onLogin(player)
 	for i = 1, #events do
 		player:registerEvent(events[i])
 		player:registerEvent("RewardLoot")
+		player:registerEvent("AutoLoot")
 	end
 
 	if player:getStorageValue(Storage.combatProtectionStorage) <= os.time() then
