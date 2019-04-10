@@ -7,7 +7,7 @@
 		<!-- <raid name="Badger" file="Ab'Dendriel/Badger.xml" interval2="500" margin="180" /> -->
 		<!-- <raid name="Dragon" file="Ab'Dendriel/Dragon.xml" interval2="500" margin="180" /> -->
 		<!-- <raid name="WaspBear" file="Ab'Dendriel/WaspBear.xml" interval2="500" margin="180" /> -->
-		<!-- <raid name="WarWolf" file="Ab'Dendriel/WarWolf.xml" interval2="500" margin="180" /> -->
+		<!-- <raid name="WarWolf" file="Ab'Dendriel/WarWolf.xml" interval2="510" margin="180" /> -->
 
 	<!-- Ankrahmun -->
 		<!-- <raid name="Bonebeast" file="Ankrahmun/Bonebeast.xml" interval2="500" margin="180" /> -->
