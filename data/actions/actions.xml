@@ -5,6 +5,7 @@
         <!-- ArenaPVP -->
         <action itemid="24732" script="arena/arena5vs5.lua"/>
         <action itemid="24733" script="arena/arena1vs1.lua"/>
+	<action actionid="2229" allowfaruse="0" script="bomberman_minigame_action.lua"/>
 
 	<!-- Rookgaard -->
 	<action uniqueid="50081" script="rookgaard/rookgaard tutorial island/snakeHead.lua" />
